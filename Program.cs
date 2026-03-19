@@ -1,4 +1,5 @@
-﻿namespace Capstone_LibrarySystem;
+﻿using Capstone_LibrarySystem.Models;
+namespace Capstone_LibrarySystem;
 
 class Program
 {
