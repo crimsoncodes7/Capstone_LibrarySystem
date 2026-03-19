@@ -15,5 +15,10 @@ public abstract class LibraryItem
         Status = ItemStatus.Available;
     }
 
+    public void SetStatus(ItemStatus newStatus)
+    {
+        Status = newStatus;
+    }
+    
     public abstract void DisplayDetails();
 }
